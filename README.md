@@ -1,5 +1,5 @@
 # -It
-This repository contains a dataset that records the daily attendance and exercise routines of gym members. The data includes information such as:
+This repository contains my information and a dataset that records the daily attendance and exercise routines of gym members. The data includes information such as:
 
 Dates members visited the gym
 
